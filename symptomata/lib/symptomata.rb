@@ -1,5 +1,6 @@
 require 'pry'
 require 'httparty'
+require 'dotenv/load'
 
 require_relative "symptomata/version"
 require_relative "symptomata/cli"
